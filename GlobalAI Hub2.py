@@ -1,0 +1,11 @@
+tupl = (1,2,3,4,5)
+print(tupl)
+print(type(tupl))
+tuple2 = ()
+type(tuple2)
+print(tupl[3])
+
+print(tupl[-2])
+print(tupl[:4])
+dm3 = ("asli", 5, 8, "september")
+print(dm3.index("september"))
